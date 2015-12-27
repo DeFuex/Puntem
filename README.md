@@ -1,0 +1,2 @@
+# Puntem
+Development of an Engine with basic implementations for a game. The gameplay consists of simple triangles popping up randomly on the screen at different times. The user has to simply click the traingles away from the screen. Android, C++ and OpenGL ES were used in this project. This project was made for my 1.Bachelor Thesis at University FH Technikum Wien to compare normal OpenGL features to OpenGL ES features.
